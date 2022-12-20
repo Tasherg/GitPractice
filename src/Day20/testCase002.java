@@ -4,8 +4,10 @@ public class testCase002 {
     //setting up test case 2
 
 
-    //Testin gfor menus
+    //Testin for menus
 
 
-    // are they clockable
+    // are they clickable
+
+    //Testing the responses of  the page
 }
